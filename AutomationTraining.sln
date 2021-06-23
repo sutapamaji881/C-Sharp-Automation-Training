@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringExample", "StringExam
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessSpecifier", "AccessSpecifier\AccessSpecifier.csproj", "{41613544-69A3-4836-8C8C-12E034E8A497}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAssignment", "ListAssignment\ListAssignment.csproj", "{3EAAA5F4-DCC8-4F5C-99E2-2C82B80C9ACA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionAssignment", "ListAssignment\CollectionAssignment.csproj", "{3EAAA5F4-DCC8-4F5C-99E2-2C82B80C9ACA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
